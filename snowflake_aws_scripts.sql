@@ -6,7 +6,7 @@
   STORAGE_ALLOWED_LOCATIONS = ('s3://powerbi.projectttt/')
   COMMENT = 'Optional Comment'
 
-
+ 
   //description Integration Object
   desc integration PBI_Integration;
 
