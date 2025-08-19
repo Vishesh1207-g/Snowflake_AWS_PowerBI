@@ -18,7 +18,7 @@ snowflake-aws-powerbi-project/
 │ └── snowflake_aws_script.sql
 ├── aws/
 │ └── (Add any S3 notes or config if needed)
-├── powerbi/
+├── powerbi/ 
 │ ├── agriculture project.pbix
 │ └── dashboard_screenshot.png <-- (optional but recommended)
 ├── data/
