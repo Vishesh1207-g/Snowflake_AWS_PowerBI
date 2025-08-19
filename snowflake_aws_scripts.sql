@@ -91,7 +91,7 @@ set Rainfall_group = 'low'
 where rainfall>=255 and rainfall<=1200;
 
 update agriculture
-set Rainfall_group = 'medium'
+set Rainfall_group = 'medium' 
 where rainfall>1200 and rainfall<=2800;
 
 update agriculture
